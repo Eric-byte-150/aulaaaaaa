@@ -1,6 +1,6 @@
 import FILME from '../imagens/FILMESSSSS.png';
 import PODEDEX from '../imagens/POKEDEX.png';
-import CEP from '../imagens/CEP.png';
+import CEP from '../imagens/CEPP.png';
 import QUIZ from '../imagens/QUIZ.png';
 import NUTRI from '../imagens/NUTRI.png';
 import TO_DO_LIST from '../imagens/TO-DO-LIST.png';

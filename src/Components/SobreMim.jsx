@@ -12,7 +12,7 @@ const SobreMim = () => {
      sempre buscar a excelência em meu trabalho.Como desenvolvedor de software, eu possuo experiência em diversas
       linguagens de programação como Java, HTML, CSS, JavaScript, PHP, MySql entre outros.
     </p>
-    <button className='sobrebutton'>Entrar em contato</button>
+  <a href="#redes"><button className='sobrebutton'>Entrar em contato</button></a>
 </div>
   </section>
   )

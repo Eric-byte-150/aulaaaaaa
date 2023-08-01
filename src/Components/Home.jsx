@@ -6,10 +6,8 @@ import EU from '../imagens/eu.jpg';
 const Home = () => {
   return (
     <>
-
-  
     <section className='home'>
-<div className='principal'>
+     <div className='principal'>
     <h1>Olá, eu sou o Eric: <span>Desenvolvedor</span></h1>
     <p>Curioso , proativo , habilidoso são só poucas palavras que me define!</p>
     

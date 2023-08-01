@@ -1,13 +1,11 @@
 
-import "./NavExemplo.css"
+import "./Nav.css"
 import { useState } from "react"
 
-function NavExemplo() {
-  
- 
+function Nav() {
+   
   const [isNavExpanded, setIsNavExpanded] = useState(false)
 
-  
   return (
     <nav className="navigation">
     <a href="/" className="brand-name">
@@ -59,4 +57,4 @@ function NavExemplo() {
 
 
 
-export default NavExemplo;
+export default Nav;
