@@ -20,9 +20,9 @@ function App() {
      <Nav/>
      <Home/>
      <SobreMim/>
-     <Habilidades/>
+  
      <Redes/>
-     <Projetos/>
+   
      <ScrollButton/>
      <Footer/>
     </div>

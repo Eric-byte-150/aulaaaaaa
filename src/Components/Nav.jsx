@@ -39,15 +39,11 @@ function Nav() {
         <li>
           <a onClick={() => {setIsNavExpanded(!isNavExpanded)}} href="#sobre">Sobre Mim</a>
         </li>
-        <li>
-          <a onClick={() => {setIsNavExpanded(!isNavExpanded)}} href="#habilidades">Habilidades</a>
-        </li>
+       
         <li>
           <a onClick={() => {setIsNavExpanded(!isNavExpanded)}} href="#redes">Redes</a>
         </li>
-        <li>
-          <a onClick={() => {setIsNavExpanded(!isNavExpanded)}} href="#projetos">Projetos</a>
-        </li>
+      
       </ul>
     </div>
   </nav>

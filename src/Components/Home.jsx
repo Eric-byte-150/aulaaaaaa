@@ -1,6 +1,6 @@
 import React from 'react'
 import "./Home.css"
-import curriculum from "./Curriculumdev.pdf"
+import curriculum from "./CurrículoEstágio.pdf"
 import EU from '../imagens/eu.jpg';
 
 const Home = () => {
