@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/aulaaaaaa/static/css/main.328e131a.css",
+    "main.js": "/aulaaaaaa/static/js/main.a9e12647.js",
+    "static/js/787.be55e6d0.chunk.js": "/aulaaaaaa/static/js/787.be55e6d0.chunk.js",
+    "static/media/NUTRI.png": "/aulaaaaaa/static/media/NUTRI.066ed7f1cfc432f7f6c3.png",
+    "static/media/BARBEARIA.png": "/aulaaaaaa/static/media/BARBEARIA.a61c779133fdbd17cbaf.png",
+    "static/media/FILMESSSSS.png": "/aulaaaaaa/static/media/FILMESSSSS.ba4f149b4e78880ca791.png",
+    "static/media/TOURS.png": "/aulaaaaaa/static/media/TOURS.5ed8cfc9d5046ae2be1b.png",
+    "static/media/POKEDEX.png": "/aulaaaaaa/static/media/POKEDEX.bb82fcd4625812344ab2.png",
+    "static/media/CurrículoEstágio.pdf": "/aulaaaaaa/static/media/CurrículoEstágio.50c2a97f5cf6d324b4f2.pdf",
+    "static/media/eu.jpg": "/aulaaaaaa/static/media/eu.017c5f36c3461ff9974a.jpg",
+    "static/media/QUIZ.png": "/aulaaaaaa/static/media/QUIZ.ff1012d1f2d690c494af.png",
+    "static/media/CEPP.png": "/aulaaaaaa/static/media/CEPP.09bf7ee882436c10660f.png",
+    "static/media/java.png": "/aulaaaaaa/static/media/java.ddf8676bd569fe01ab44.png",
+    "static/media/php.png": "/aulaaaaaa/static/media/php.07673f5280f1199740e7.png",
+    "static/media/TO-DO-LIST.png": "/aulaaaaaa/static/media/TO-DO-LIST.f2982840e20de4496f3a.png",
+    "static/media/arquivo-js.png": "/aulaaaaaa/static/media/arquivo-js.2b9efa28f2fb4c227db2.png",
+    "static/media/arquivo-css.png": "/aulaaaaaa/static/media/arquivo-css.0448afd774c14d467cdc.png",
+    "static/media/arquivo-html.png": "/aulaaaaaa/static/media/arquivo-html.68d4e6f4c86af6b75def.png",
+    "static/media/wordpress.png": "/aulaaaaaa/static/media/wordpress.11ed091523e3152b651f.png",
+    "index.html": "/aulaaaaaa/index.html",
+    "main.328e131a.css.map": "/aulaaaaaa/static/css/main.328e131a.css.map",
+    "main.a9e12647.js.map": "/aulaaaaaa/static/js/main.a9e12647.js.map",
+    "787.be55e6d0.chunk.js.map": "/aulaaaaaa/static/js/787.be55e6d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.328e131a.css",
+    "static/js/main.a9e12647.js"
+  ]
+}
