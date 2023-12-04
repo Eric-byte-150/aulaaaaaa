@@ -7,10 +7,8 @@ const SobreMim = () => {
 <div className="container">
     <h1 className='sobreh1'> SOBRE MIM</h1>
     <p className='sobrep'>
-    Em Primeiro lugar , o porquê de eu levantar todos os dias é que acredito que minha paixão pela 
-    tecnologia e minha vontade de fazer a diferença no mundo são aspectos fundamentais que me impulsionam a
-     sempre buscar a excelência em meu trabalho.Como desenvolvedor de software, eu possuo experiência em diversas
-      linguagens de programação como Java, HTML, CSS, JavaScript, PHP, MySql entre outros.
+    Olá, sou o Eric, tenho 18 anos e estou bastante envolvido com o campo da Tecnologia da Informação (TI). Minha jornada começou com um curso técnico na área, onde pude mergulhar nas bases fundamentais. Atualmente, estou ampliando meus conhecimentos e perspectivas com o curso de Gestão de TI. Minha paixão por esse universo vai além do aprendizado formal; estou constantemente explorando novas tecnologias e soluções inovadoras. Meu objetivo é não apenas aplicar o que aprendo, mas também contribuir com ideias frescas e eficazes para enfrentar os desafios do mundo digital em constante evolução.
+    Já tive experiências com HTML,CSS, JS,PHP, MySql e python
     </p>
   <a href="#redes"><button className='sobrebutton'>Entrar em contato</button></a>
 </div>
