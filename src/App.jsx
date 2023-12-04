@@ -23,7 +23,7 @@ function App() {
   
      <Redes/>
    
-     <ScrollButton/>
+     <ScrollButton />
      <Footer/>
     </div>
   );
